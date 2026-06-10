@@ -1,6 +1,6 @@
-const USER_ID = "yourname_ddmmyyyy"; // TODO: Replace with your actual name_ddmmyyyy
-const EMAIL_ID = "your.email@university.edu"; // TODO: Replace with your actual email
-const ENROLLMENT_NUMBER = "21XXXXX"; // TODO: Replace with your actual enrollment number
+const USER_ID = "het_20050927"; // TODO: Replace with your actual name_ddmmyyyy
+const EMAIL_ID = "het.jasani.btech2023@sitpune.edu.in"; // TODO: Replace with your actual email
+const ENROLLMENT_NUMBER = "24070122504"; // TODO: Replace with your actual enrollment number
 
 function processGraph(edges) {
   const invalidEntries = [];
